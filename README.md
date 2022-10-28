@@ -2,6 +2,17 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerim8373&count_bg=%23FDE1FF&title_bg=%23D6B2FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Languages ✨</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<br>
+</div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yerim8373)](https://solved.ac/yerim8373)<br/>
 
 
