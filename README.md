@@ -11,15 +11,12 @@
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<br>
-
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerim8373&show_icons=true&theme=buefy)
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim8373&layout=compact&theme=buefy)
-
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yerim8373)](https://solved.ac/yerim8373)<br/>
-
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerim8373&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerim8373&layout=compact&theme=buefy)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yerim8373)](https://solved.ac/yerim8373)<br/>
 
 
 <!--
