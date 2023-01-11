@@ -5,14 +5,14 @@
 <div align=center>
 <h3>📚 Tech Stack 📚</h3>
 <p>✨ Languages ✨</p>
-</div>
+<!-- </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<br>
 </div>
-
+ -->
 <div align=center>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerim8373&show_icons=true&theme=buefy)
