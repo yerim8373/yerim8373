@@ -12,7 +12,7 @@
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat&logo=SpringDataJPA&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat&logo=SpringDataJPA&logoColor=white" /> -->
 	<br>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
